@@ -35,7 +35,7 @@ The dataset contains various features related to patients' health and demographi
 1. Clone the repository:
     ```bash
     git clone https://github.com/yourusername/diabetes-prediction.git
-    cd diabetes-prediction
+    cd src
     ```
 2. Install the required libraries:
     ```bash
